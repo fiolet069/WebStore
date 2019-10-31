@@ -1,0 +1,33 @@
+@model RegistrationViewModel;
+
+<h4 class="bold text-center my-3">Регистрация</h4>
+<div class="row justify-content-center">
+    <div class="col-12 col-lg-6">
+
+        <form asp-antiforgery="true" asp-action="Registration" asp-controller="Auth" method="post">
+            <div class="form-group">
+                <input class="form-control" asp-for="Email" placeholder="Почта">
+                <span class="text-danger" asp-validation-for="Email"></span>
+            </div>
+            <div class="form-group">
+                <input class="form-control" asp-for="Password" placeholder="Пароль">
+                <span class="text-danger" asp-validation-for="Password"></span>
+            </div>
+            <div class="form-group">
+                <input class="form-control" asp-for="ConfirmPassword" placeholder="Пароль">
+                <span class="text-danger" asp-validation-for="ConfirmPassword"></span>
+            </div>
+            <div class="form-group">
+                <input class="form-control" asp-for="Surname" placeholder="Фамилия">
+                <span class="text-danger" asp-validation-for="Surname"></span>
+            </div>
+            <div class="form-group">
+                <input class="form-control" asp-for="Name" placeholder="Имя">
+                <span class="text-danger" asp-validation-for="Name"></span>
+            </div>
+            <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+            <button class="btn btn-success float-right" type="submit">Зарегистрироваться</button>
+        </form>
+
+    </div>
+</div>

@@ -1,0 +1,8 @@
+C:\Users\mainp\Documents\Development\WebStore\Data\bin\Debug\netstandard2.1\Data.deps.json
+C:\Users\mainp\Documents\Development\WebStore\Data\bin\Debug\netstandard2.1\Data.dll
+C:\Users\mainp\Documents\Development\WebStore\Data\bin\Debug\netstandard2.1\Data.pdb
+C:\Users\mainp\Documents\Development\WebStore\Data\obj\Debug\netstandard2.1\Data.csprojAssemblyReference.cache
+C:\Users\mainp\Documents\Development\WebStore\Data\obj\Debug\netstandard2.1\Data.AssemblyInfoInputs.cache
+C:\Users\mainp\Documents\Development\WebStore\Data\obj\Debug\netstandard2.1\Data.AssemblyInfo.cs
+C:\Users\mainp\Documents\Development\WebStore\Data\obj\Debug\netstandard2.1\Data.dll
+C:\Users\mainp\Documents\Development\WebStore\Data\obj\Debug\netstandard2.1\Data.pdb

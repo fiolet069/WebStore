@@ -1,0 +1,11 @@
+C:\Users\mainp\Documents\Development\WebStore\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Users\mainp\Documents\Development\WebStore\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Users\mainp\Documents\Development\WebStore\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Users\mainp\Documents\Development\WebStore\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+C:\Users\mainp\Documents\Development\WebStore\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\mainp\Documents\Development\WebStore\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\mainp\Documents\Development\WebStore\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Users\mainp\Documents\Development\WebStore\Business\obj\Debug\netstandard2.1\Business.pdb
+C:\Users\mainp\Documents\Development\WebStore\Business\bin\Debug\netstandard2.1\Data.dll
+C:\Users\mainp\Documents\Development\WebStore\Business\bin\Debug\netstandard2.1\Data.pdb
+C:\Users\mainp\Documents\Development\WebStore\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete

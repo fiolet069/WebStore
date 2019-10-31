@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>WebStore</title>
+        <meta charset="utf-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    </head>
+    <body>
+        @await Html.PartialAsync("_Menu")
+        <div class="p-5">@RenderBody()</div>
+        <script src="~/build.js"></script>
+    </body>
+</html>
